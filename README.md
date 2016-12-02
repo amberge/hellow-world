@@ -1,4 +1,4 @@
-# hellow-world
+# hello-world
 the first repository from Amber
 
 hello there,
